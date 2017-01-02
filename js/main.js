@@ -20,4 +20,8 @@ window.addEventListener('load', function(){
   var title_elem = document.getElementById("music_title");
   //title_elem.innerText = "";
   title_elem.innerText = title;
+
+  document.getElementById("refresh").addEventListener("click", function(){
+    location.reload();
+  })
 });

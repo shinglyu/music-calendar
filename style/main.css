@@ -8,3 +8,11 @@ body {
 a {
   color: white;
 }
+
+#refresh {
+  position:fixed;
+  top: 0px;
+  right: 0px;
+  font-size: 3em;
+  margin: 0.2em
+}
