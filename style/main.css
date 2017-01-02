@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background: linear-gradient(to bottom, black, grey);
+  color: white;
+  height: 100vh;
+}
+
+a {
+  color: white;
+}
